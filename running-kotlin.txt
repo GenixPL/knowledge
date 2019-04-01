@@ -1,0 +1,5 @@
+Complie Kotlin files:
+    kotlinc <kotlin files>.kt -include-runtime -d <name new package>.jar
+
+Run with Java:
+    java -jar <package name>.jar
