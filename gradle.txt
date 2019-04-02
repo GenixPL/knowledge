@@ -1,0 +1,27 @@
+TIP: if task is named in camelCase, then it's enough to write first letters of word, in order to run it (e.g. gradle cK -> gradle compileKotlin)
+TIP: build/reports/tests/test/index.html has tests output presented in nice html way 
+TIP: gradle vs gradlew -> when we use gradle we are running commands on gradle app installed on our computer, while gradlew executes them from wrapper attached to project
+
+
+ERROR: if gradle throws `java.lang.OutOfMemoryError: Metaspace` -> it has opened too many  processes and runned out of memory
+
+
+gradle init
+    generates simple project
+
+gradle wrapper
+
+gradle properties
+    shows project's attributes
+
+gradle clean
+    remove build folder
+
+gradle <task> --scan
+    publishes scan of task, so we can check how it executed
+
+gradle compileKotlin
+    compiles project
+
+gradle test
+    runs tests

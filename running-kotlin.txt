@@ -1,5 +1,8 @@
 Complie Kotlin files:
     kotlinc <kotlin files>.kt -include-runtime -d <name new package>.jar
 
-Run with Java:
+Run kotlin files with JVM:
     java -jar <package name>.jar
+
+Compile and run Kotlin script:
+    kotlinc -script <name of script file>.kts <args>
