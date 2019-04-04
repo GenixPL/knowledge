@@ -1,8 +1,17 @@
+[TIPs are tips and just knowledge]
 TIP: if task is named in camelCase, then it's enough to write first letters of word, in order to run it (e.g. gradle cK -> gradle compileKotlin)
 TIP: build/reports/tests/test/index.html has tests output presented in nice html way 
 TIP: gradle vs gradlew -> when we use gradle we are running commands on gradle app installed on our computer, while gradlew executes them from wrapper attached to project
 TIP: minimum gradle setup is creating 'build.gradle.kts' and 'settings.gradle.kts'
 TIP: adding 'publishAlways()' to 'buildScan' task automagically adds '--scan' to each task
+TIP: test setting 'ignoreFailures' makes Gradle continue with the project’s build once the tests have completed, even if some of them have failed
+TIP: test setting 'failFast' makes Gradle fail the build and finish as soon as one of your tests fails. 
+    This can save a lot of time when you have a long-running test suite and is particularly useful when running the build on continuous integration servers
+TIP: '--fail-fast' command line option makes the same as 'failFast' test setting
+TIP: '-q' command line option suppresses console output
+TIP: '-x' command line oprion skips tests during build
+TIP: 'gradle cleanTest' clean tests
+TIP: plugins are for Gradle - they specify tasks, dependencies are for app - they specify libraries
 
 ERROR: if gradle throws `java.lang.OutOfMemoryError: Metaspace` -> it has opened too many processes and runned out of memory
 
