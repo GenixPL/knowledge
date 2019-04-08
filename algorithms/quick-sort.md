@@ -1,12 +1,15 @@
-###### Quick sort: [(link)][1]
-* Best and Average Time complexity: **O(n * log(n))**
+#### Quick sort: [(link)][1]
+* Best Time complexity: **O(n * log(n))**
+  
+* Average Time complexity: **O(n * log(n))**
+
 * Worst Time Complexity: **O(n ^ 2)**. Worst case occurs when the 
     partition process always picks greatest or smallest element as pivot.
-* Auxiliary Space: **O(n)** ? (TODO)
-* Possible optimization: 
-    * (TODO)
+
+* Auxiliary Space: **O(1)**
+  
 * Applications
-    * (TODO)
+    * If your application is not listed in other sort, then use quick sort.
 
 
 

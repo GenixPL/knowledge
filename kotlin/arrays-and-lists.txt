@@ -6,5 +6,5 @@ Changing elemnts in Array is much faster than in ArrayList:
      - bubble sort on 10 elemnts in Array took 17504 nanoseconds
      - bubble sort on 10 elemnts in ArrayList took 153891 nanoseconds
 
-But it's better to use ArrayList if we want to add new things to array, than 
+It's better to use ArrayList if we want to add new things to array, than 
     using regular Array, creating new longer, copying all items and changing reference.
