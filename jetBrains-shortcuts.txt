@@ -11,3 +11,4 @@ ctrl + shift + f 	search in whole project (code)
 alt + left/rigt     moves to tab on left/right
 f2                  moves to the next error
 shift + f2          moves to previous error
+ctrl + f8           place/remove breakpoint in line
