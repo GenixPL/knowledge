@@ -1,7 +1,7 @@
 #### Bubble sort: [(link)][1]
 * Best Time Complexity: **O(n)**.
 
-* Average Time Complexity: **O(n * 2*)**.
+* Average Time Complexity: **O(n * 2)**.
 
 * Worst Time Complexity: **O(n * 2)**. 
 
