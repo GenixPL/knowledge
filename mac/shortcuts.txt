@@ -13,3 +13,8 @@ go back/
 VS CODE:
 open terminal: ctrl + `
 command palette: shift + cmd + p
+go to definition: fn + f12
+peek definition: fn + option + f12
+
+OPERA:
+open console: option + cmd + i
