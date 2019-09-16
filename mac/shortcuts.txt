@@ -1,0 +1,15 @@
+open settings: cmd + ,
+switch desktop: stroll + arrow
+minimise window: cmd + m
+close window: cmd + w
+close all windows: cmd + option + w
+
+SAFARI:
+switch tabs: cmd + shift + arrow
+new tab: cmd + t
+close tab: cmd + w
+go back/
+
+VS CODE:
+open terminal: ctrl + `
+command palette: shift + cmd + p
