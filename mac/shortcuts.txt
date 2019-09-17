@@ -17,6 +17,9 @@ go to definition: fn + f12
 peek definition: fn + option + f12
 show suggestions: ctrl + space
 rename: fn + f2
+fold all functions: cmd + k + 0
+move to neighbor tab: alt + cmd + arrow
+move between tabs (listed): ctrl + tab 
 
 OPERA:
 open console: option + cmd + i
