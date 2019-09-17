@@ -18,8 +18,12 @@ peek definition: fn + option + f12
 show suggestions: ctrl + space
 rename: fn + f2
 fold all functions: cmd + k + 0
+unfold all: cmd + k + j
 move to neighbor tab: alt + cmd + arrow
 move between tabs (listed): ctrl + tab 
 
 OPERA:
 open console: option + cmd + i
+
+MYSQL WORKBENCH:
+execute statement: cmd + enter

@@ -1,0 +1,2 @@
+open mySql terminal: mysql -u root -p
+show databases: SHOW DATABASES;
