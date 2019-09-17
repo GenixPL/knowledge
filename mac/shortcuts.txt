@@ -8,13 +8,15 @@ SAFARI:
 switch tabs: cmd + shift + arrow
 new tab: cmd + t
 close tab: cmd + w
-go back/
+open console: option + cmd + c (develop tab must be enabled)
 
 VS CODE:
 open terminal: ctrl + `
 command palette: shift + cmd + p
 go to definition: fn + f12
 peek definition: fn + option + f12
+show suggestions: ctrl + space
+rename: fn + f2
 
 OPERA:
 open console: option + cmd + i
