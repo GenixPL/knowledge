@@ -20,10 +20,14 @@ go to definition: fn + f12
 peek definition: fn + option + f12
 show suggestions: ctrl + space
 rename: fn + f2
-fold all functions: cmd + k + 0
+fold all: cmd + k + 0
 unfold all: cmd + k + j
+fold current: option + cmd + [
+unfold current: option + cmd + ]
 move to neighboring tab: alt + cmd + arrow
 move between tabs (listed): ctrl + tab 
+copy line below: shift + option + arrow (down)
+copy line above: shift + option + arrow (up)
 
 
 OPERA:

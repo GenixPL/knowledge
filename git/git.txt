@@ -1,1 +1,2 @@
 show remote url: git remote show <remote name>
+add all files: git add .

@@ -11,3 +11,4 @@
 `node app.js` -> compiles and runs app.js
 
 `nodemon app.js` -> watches for changes inside app.js, and if it detects sny, then it recompiles and reruns app.js
+
