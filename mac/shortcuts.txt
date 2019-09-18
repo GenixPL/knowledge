@@ -3,6 +3,7 @@ switch desktop: stroll + arrow
 minimise window: cmd + m
 close window: cmd + w
 close all windows: cmd + option + w
+show hidden files: shift + cmd + .
 
 
 SAFARI:
