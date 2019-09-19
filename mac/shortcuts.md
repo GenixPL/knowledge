@@ -33,6 +33,8 @@
 + hot restart (mine): `shift + opt + \`
 + show shortcuts: `cmd + k + s`
 + beautify: `shift + opt + f`
++ jump to next error: `fn + f8`
++ run app: `fn + f5`
 
 
 #### Opera:
@@ -45,4 +47,5 @@
 
 
 #### iOS Simulator:
++ home button: `shift + cmd + h`
 + show apps: `shift + cmd + h + h`
