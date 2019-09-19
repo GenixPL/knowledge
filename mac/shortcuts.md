@@ -6,14 +6,14 @@
 + show hidden files: `shift + cmd + .`
 
 
-#### SAFARI:
+#### Safari:
 + switch tabs: `cmd + shift + arrow`
 + new tab: `cmd + t`
 + close tab: `cmd + w`
 + open console: `opt + cmd + c` (develop tab must be enabled)
 
 
-#### VS CODE:
+#### VS Code:
 + open terminal: ``` ctrl + ` ``` 
 + command palette: `shift + cmd + p`
 + go to definition: `fn + f12`
@@ -28,12 +28,21 @@
 + move between tabs (listed): `ctrl + tab`
 + copy line below: `shift + opt + arrow (down)`
 + copy line above: `shift + opt + arrow (up)`
++ open bulb: `cmd + .`
++ hot reload (mine): `opt + \`
++ hot restart (mine): `shift + opt + \`
++ show shortcuts: `cmd + k + s`
++ beautify: `shift + opt + f`
 
 
-#### OPERA:
+#### Opera:
 + open console: `opt + cmd + i`
 + move to neighboring tab: `alt + cmd + arrow`
 
 
-#### MYSQL WORKBENCH:
+#### MySQL Workbench:
 + execute statement: `cmd + enter`
+
+
+#### iOS Simulator:
++ show apps: `shift + cmd + h + h`
