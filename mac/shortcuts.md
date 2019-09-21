@@ -16,8 +16,8 @@
 #### VS Code:
 + open terminal: ``` ctrl + ` ``` 
 + command palette: `shift + cmd + p`
-+ go to definition: `fn + f12`
-+ peek definition: `fn + opt + f12`
++ go to definition (mine): `cmd + b`
++ peek definition (mine): `opt + b`
 + show suggestions: `ctrl + space`
 + rename: `fn + f2`
 + fold all: `cmd + k + 0`
